@@ -1,2 +1,2 @@
-# cabdell
-Definition of data models for ES6
+# @filigrana/enum
+Enumeration class for Filigrana, a schema driven, React based UI toolkit

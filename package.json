@@ -1,0 +1,24 @@
+{
+  "name": "@filigrana/enum",
+  "version": "0.0.1",
+  "description": "Enumeration class for Filigrana, a schema driven, React based UI toolkit",
+  "main": "src/index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marticongost/filigrana-enum.git"
+  },
+  "keywords": [
+    "enum",
+    "enumeration"
+  ],
+  "author": "Martí Congost",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/marticongost/filigrana-enum/issues"
+  },
+  "homepage": "https://github.com/marticongost/filigrana-enum#readme",
+  "devDependencies": {
+  }
+}
