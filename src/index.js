@@ -50,4 +50,13 @@ export default class Enum {
     get name() {
         return this[NAME];
     }
+
+    static getEntryByValue(value) {
+        for (let option of this.options()) {
+            if (option.value == value) {
+                return option;
+            }
+        }
+        return null;
+    }
 }
