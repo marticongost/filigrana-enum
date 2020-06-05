@@ -1,6 +1,6 @@
 {
   "name": "@filigrana/enum",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Enumeration class for Filigrana, a schema driven, React based UI toolkit",
   "main": "src/index.js",
   "scripts": {},
