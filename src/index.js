@@ -35,7 +35,7 @@ export default class Enum {
     }
 
     static *options() {
-        for (let key in this) {
+        for (let key of Object.getOwnPropertyNames(this)) {
             const value = this[key];
             if (value instanceof this) {
                 yield value;
